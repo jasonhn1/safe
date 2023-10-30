@@ -1,0 +1,15 @@
+body {
+    background-image: url('../../img/login.jpg');
+    background-size: cover;
+    height: 100vh;
+
+    background-position: bottom;
+    overflow-y: hidden;
+  
+  }
+
+img{
+    position: relative;
+    top: 50%; left: 30%;
+
+}
